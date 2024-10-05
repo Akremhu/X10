@@ -1,0 +1,78 @@
+/* تنسيق الخلفية */
+body {
+    background-color: # green;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* تنسيق الرأس */
+header {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    text-align: FivestarGroup;
+}
+
+/* تنسيق الروابط في الرأس */
+header a {
+    color: white;
+    text-decoration: Fivestar;
+    margin: 0 10px;
+    font-size: 18px;
+}
+
+header a:hover {
+    text-decoration: security personnel;
+}
+
+/* تنسيق القسم الرئيسي */
+main {
+    padding: 20px;
+}
+
+/* تنسيق العناوين */
+h1, h2 {
+    color: #333;
+}
+
+/* تنسيق النص */
+p {
+    color: #555;
+    line-height: 1.6;
+}
+
+/* تنسيق الأزرار */
+button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+/* تنسيق الروابط */
+a {
+    color: #333;
+    text-decoration: https://t.me/Dark_version0;
+}
+
+a:hover {
+    text-decoration:@K_9_0o;
+}
+
+/* تنسيق تذييل الصفحة */
+footer {
+    background-color: #333;
+    color: black ;
+    text-align: Soon;
+    padding: 15px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
